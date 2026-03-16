@@ -150,6 +150,12 @@
         padding-bottom: 10px;
     }
 
+    .footertws{
+        text-align: center;
+        background-color: #d4edff;
+        padding: .5rem;
+    }
+
 
 <!--KATSEYE-->
 
@@ -264,6 +270,12 @@
         width: 60%;
         font-size: 67%;
         padding-bottom: 10px;
+    }
+
+    .footerkatseye{
+        text-align: center;
+        background-color: #e3b7fe;
+        padding: .5rem;
     }
 
 
@@ -404,4 +416,10 @@
         width: 60%;
         font-size: 70%;
         padding-bottom: 10px;
+    }
+
+    .footersabrina{
+        text-align: center;
+        background-color: #ffecdb;
+        padding: .5rem;
     }

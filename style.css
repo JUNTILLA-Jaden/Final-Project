@@ -153,11 +153,11 @@
 
 <!--KATSEYE-->
 
-.section0katseye{
+ .section0katseye{
         text-align: center;
     }
 
-    body{
+    bgkatseye{
         background-color: #ecd6ff;
     }
 
@@ -175,7 +175,6 @@
     .p1{
         text-align: center;
     }
-
 
     <!--Members-->
 

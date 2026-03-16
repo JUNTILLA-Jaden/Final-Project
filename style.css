@@ -1,6 +1,6 @@
 <!--TWS-->
 
-    .section0{
+    .section0tws{
         text-align: center;
     }
 
@@ -11,7 +11,7 @@
 
     <!--Header-->
 
-    .section1{
+    .section1tws{
         width: 100%;
     }
 
@@ -26,22 +26,22 @@
 
     <!--Members-->
 
-    .section2 {
+    .section2tws {
         width: 100%;
     }
 
-    .section2 img{
+    .section2tws img{
         text-align: left;
     }
 
-    .clear-section2{
+    .clear-section2tws{
         clear: both;
         margin-left: auto;
         margin-right: auto;
         width: 60%;
     }
 
-    .floater-section2 {
+    .floater-section2tws {
         margin-left: auto;
         margin-right: auto;
         display:inline-block;    
@@ -49,11 +49,11 @@
 
     }
 
-    .floater-section2 p{
+    .floater-section2tws p{
         text-align: left;  
     }
 
-    .img2{
+    .img2tws{
         float: left;
         padding-right: 10px;
     }
@@ -62,19 +62,19 @@
     <!--Awards-->
 
 
-    .section3{
+    .section3tws{
         text-align: center;
         width: 100%;
     }
 
-    .section4{
+    .section4tws{
         clear: both;
         margin-left: auto;
         margin-right: auto;
         width: 50%;
     }
 
-    .section5{
+    .section5tws{
         margin-left: auto;
         margin-right: auto;
         display:inline-block;    
@@ -84,12 +84,12 @@
 
     <!--Discography-->
 
-    .section6{
+    .section6tws{
         text-align: center;
         width: 100%;
     }
 
-    .section7{
+    .section7tws{
         clear: both;
         margin-left: auto;
         margin-right: auto;
@@ -153,7 +153,7 @@
 
 <!--KATSEYE-->
 
-.section0-katseye{
+.section0katseye{
         text-align: center;
     }
 
@@ -164,7 +164,7 @@
 
     <!--Header-->
 
-    .section1{
+    .section1katseye{
         width: 100%;
     }
 
@@ -179,22 +179,22 @@
 
     <!--Members-->
 
-    .section2 {
+    .section2katseye {
         width: 100%;
     }
 
-    .section2 img{
+    .section2katseye img{
         text-align: left;
     }
 
-    .clear-section2{
+    .clear-section2katseye{
         clear: both;
         margin-left: auto;
         margin-right: auto;
         width: 60%;
     }
 
-    .floater-section2 {
+    .floater-section2katseye {
         margin-left: auto;
         margin-right: auto;
         display:inline-block;    
@@ -202,11 +202,11 @@
 
     }
 
-    .floater-section2 p{
+    .floater-section2katseye p{
         text-align: left;  
     }
 
-    .img2{
+    .img2katseye{
         float: left;
         padding-right: 10px;
     }
@@ -215,19 +215,19 @@
     <!--Awards-->
 
 
-    .section3{
+    .section3katseye{
         text-align: center;
         width: 100%;
     }
 
-    .section4{
+    .section4katseye{
         clear: both;
         margin-left: auto;
         margin-right: auto;
         width: 50%;
     }
 
-    .section5{
+    .section5katseye{
         margin-left: auto;
         margin-right: auto;
         display:inline-block;    
@@ -237,12 +237,12 @@
 
     <!--Discography-->
 
-    .section6{
+    .section6katseye{
         text-align: center;
         width: 100%;
     }
 
-    .section7{
+    .section7katseye{
         clear: both;
         margin-left: auto;
         margin-right: auto;
